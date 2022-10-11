@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.lisn.upsaclay.fr/'>LISN, CNRS, Université Paris Saclay</a>
+subtitle: <a href='https://www.lisn.upsaclay.fr/'>LISN, CNRS, Université Paris Saclay</a> Paris, France .
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Bureau A123, Bat 507</p>
-    <p>Campus Universitaire, Université Paris Saclay</p>
-    <p>Orsay 91400, France</p>
+  address:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
