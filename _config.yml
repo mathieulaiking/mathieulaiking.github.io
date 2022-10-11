@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Mathieu
-middle_name: V.
+middle_name:
 last_name: LAÏ-KING
 email: mathieu.lai-king@lisn.upsaclay.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -67,10 +67,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+github_username: mathieulaiking # your GitHub user name
+gitlab_username: laikmath # your GitLab user name
+twitter_username: mathlaiking # your Twitter handle
+linkedin_username: mathieulaiking # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: # your ORCID ID
