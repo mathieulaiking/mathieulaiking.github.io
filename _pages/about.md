@@ -11,12 +11,11 @@ profile:
   address:
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-1st year PhD student in Computer Science at Université Paris Saclay, advised by [Patrick Paroubek](https://perso.limsi.fr/pap/) and [Thierry Hamon](https://perso.limsi.fr/hamon/). I am working on natural language processing applied to the medical domain.  
-
+1st year PhD student in Computer Science at Université Paris Saclay, advised by [Patrick Paroubek](https://perso.limsi.fr/pap/) and [Thierry Hamon](https://perso.limsi.fr/hamon/). I am working at [LISN Lab (CNRS)](https://www.lisn.fr/).
 Previously I received a MSc. from CPE Lyon (French engineering school from "Grandes Ecoles").  
 
 My PhD subject is to assess data quality in the medical domain using natural language processing systems. I have been working on information extraction in clinical trials articles to assess the quality of the outcome reporting.
