@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.lisn.upsaclay.fr/'>LISN, CNRS, Université Paris Saclay</a> Paris, France .
+subtitle:
 
 profile:
   align: left
