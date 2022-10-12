@@ -188,7 +188,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
-  - jekyll-jupyter-notebook
+  # - jekyll-jupyter-notebook -> TODO: bug need other dependencies installed ? check https://github.com/mathieulaiking/mathieulaiking.github.io/actions/runs/3237856346/jobs/5305406810#step:6:128 
   - jemoji
 
 # Sitemap settings
