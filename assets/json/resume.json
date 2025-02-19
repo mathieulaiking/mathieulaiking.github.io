@@ -1,200 +1,183 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Mathieu Laï-king",
+    "label": "PhD Student",
+    "image": "prof_pic.jpg",
+    "email": "mathieu.lai-king@universite-paris-saclay.fr",
+    "phone": "(+33) 6 89 26 86 14",
+    "url": "mathieulaiking.github.io",
+    "summary": "Last year PhD Student at Université Paris Saclay, working on biomedical papers automatic quality assessment using NLP and data selection for pretraining biomedical language models.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Campus Universitaire Bâtiment 507",
+      "postalCode": "91 400",
+      "city": "Orsay",
+      "countryCode": "FR",
+      "region": "Île-de-France"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "mathlaiking",
+        "url": "https://twitter.com/mathlaiking"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "SEGULA Technologies",
+      "location": "Lyon, France",
+      "position": "Machine Learning / NLP Engineer",
+      "url": "https://france.segulatechnologies.com/fr/",
+      "startDate": "2021-02-01",
+      "endDate": "2021-07-31",
+      "summary": "End-of-study internship in R&D team.",
+      "highlights": [
+        "Using machine learning and NLP to find recurrent problems in customer service data (vehicles malfunction, text messages from customers).",
+        "Implementation of NLP pipeline (preprocessing, embedding, clustering, topic modelling) to extract similar groups of problems and identify their main topics."
+      ]
+    },
+    {
+      "name": "Fraunhofer IPK",
+      "location": "Berlin, Germany",
+      "position": "Machine Learning R&D Intern",
+      "url": "https://www.ipk.fraunhofer.de/en.html",
+      "startDate": "2019-07-01",
+      "endDate": "2020-06-31",
+      "summary": "Gap year internship in an applied sciences research institute.  Working in different teams for 2 projects.",
+      "highlights": [
+        "1st project -> using Machine Learning / NLP / Computer Vision to extract and compare product requirements",
+        "2nd project -> Web development using Java + JSF for internal project management application."
+      ]
     }
+
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Université Paris Saclay",
+      "location": "Paris, France",
+      "url": "https://www.universite-paris-saclay.fr/",
+      "area": "Natural Language Processing (NLP)",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-02-01",
+      "endDate": "2025-04-31",
+      "courses": [
+        "Research on biomedical papers automatic quality assessment using NLP and data selection for pretraining biomedical language models, supervised by Patrick Paroubek and Thierry Hamon",
+        "Participated to ALPS Winter School 2023, TALN 2023, ACL 2024, presented a poster at ACL",
+        "3 Publications at n2c2 Shared Task, BioNLP@ACL2024, Revue TAL 65.2"
+      ]
+    },
+    {
+      "institution": "CPE Lyon",
+      "location": "Lyon, France",
+      "url": "https://www.cpe.fr/",
+      "area": "Computer Science",
+      "studyType": " MSc. ('Diplôme d'ingénieur')",
+      "startDate": "2017-09-01",
+      "endDate": "2021-07-01",
+      "score": "GPA 3.732",
+      "courses": [
+        "Specialization in Big Data and Software conception",
+        "Gap year between July 2019 and June 2020",
+        "Relevant Courses -> Machine Learning, Deep Learning, Big Data hackathon, Information systems architecture, Design Patterns, Mobile Development, Data Mining"
+      ]
     }
   ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Natural Language Processing Specialization",
+      "date": "2021-12-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/ERQGQXC4J9ED",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Cambridge C1 Advanced",
+      "date": "2020-12-20",
+      "issuer": "Cambridge University Press & Assessment",
+      "url": "https://www.cambridgeenglish.org/exams-and-tests/advanced/",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "General Skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Statistics",
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Mobile development : Android",
+        "Object Oriented Programming, Design patterns",
+        "Python,Java,Bash,C,C++",
+        "DataBases : MySQL, PostGreSQL",
+        "Web Development : React, NodeJs, SpringFramework",
+        "Git"
+      ]
+    },
+    {
+      "name": "NLP / Deep Learning / Machine Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Pytorch, Transformers, vLLM, W&B, accelerate, deepspeed, spacy, stanza, nltk, Sentence Transformers, datasets, scikit-learn"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "🇫🇷"
     },
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Natural Language Processing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Medical-domain NLP methods to improve/assess medical text data quality",
+        "Pretraining Data Selection",
+        "Agents"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Patrick Paroubek, PhD, HDR",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Research Engineer at CNRS. Corpus linguistics, NLP evaluation, text analysis, sentiment analysis, chatbots"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Thierry Hamon, PhD, HDR",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Lecturer at Sorbonne Paris Nord Université."
     }
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }
