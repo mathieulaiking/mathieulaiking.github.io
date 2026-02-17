@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mathieulaiking
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mathieulaiking/10k-german-news-classification
+  - mathieulaiking/consort-qa
+  - mathieulaiking/outcome-switch-gradio
+  - mathieulaiking/outcome-switch-exp
+  - mathieulaiking/pretrain-med-data-qual
+  - mathieulaiking/outcome-corpus
