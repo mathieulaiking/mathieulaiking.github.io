@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/sinaatalay/rendercv/main/schema.json": "file:///home/laiking/code/perso/mathieulaiking.github.io/_data/cv.yml"
+    }
+}

@@ -1,11 +1,11 @@
 cv:
   name: Mathieu LAÏ-KING
-  label: Postodoctoral Researcher in Natural Language Processing
-  email: mathieu.laiking@anses.fr
+  headline: Postdoctoral Researcher in Natural Language Processing
   location: Paris, France
-  image: "assets/img/profile.jpg"
-  summary: Postdoc @ ANSES & INRAE
-
+  email: mathieu.laiking@anses.fr
+  phone: '+33689268614'
+  website: https://mathieulaiking.github.io/
+  photo: ../assets/img/profile-pic.jpg
   social_networks:
     - network: X
       username: mathlaiking
@@ -14,80 +14,93 @@ cv:
     - network: LinkedIn
       username: mathieulaiking
 
-  address:
-    street: 14 Rue Pierre et Marie Curie
-    city: Maisons-Alfort
-    region: Val de Marne
-    postalCode: 94700
-    countryCode: FR
-
   sections:
     Education:
       - institution: Université Paris Saclay
-        location: Paris, France
-        url: https://www.universite-paris-saclay.fr/
         area: Natural Language Processing (NLP)
-        studyType: PhD
-        start_date: 2022-02-01
-        end_date: 2025-04-31
-        score: ""
-        courses:
-          - "Research on biomedical papers automatic quality assessment using NLP and data selection for pretraining biomedical language models, supervised by Patrick Paroubek and Thierry Hamon"
-          - "DLO-JZ Training: Deep Learning Optimisé sur Jean-Zay (CNRS Supercomputer)"
-          - "Participated in ALPS Winter School 2023, TALN 2023, ACL 2024, and presented a poster at ACL"
-          - "3 publications: n2c2 Shared Task, BioNLP@ACL2024, Revue TAL 65.2"
+        degree: PhD
+        start_date: 2022-02
+        end_date: 2025-04
+        location: Paris, France
+        summary: PhD thesis :- "Quality of Research Articles and Neural Language Models :- Applications to the Biomedical Domain" , supervised by Patrick Paroubek and Thierry Hamon
         highlights:
-          - ACL 2024 Bangkok, presented a poster at BioNLP
+          - DLO-JZ Training :- Deep Learning Optimisé sur Jean-Zay (CNRS Supercomputer)
+          - Conferences/Schools :- ALPS Winter School 2023, TALN 2023, ACL 2024 Bangkok
 
       - institution: CPE Lyon
-        location: Lyon, France
-        url: https://www.cpe.fr/
         area: Computer Science
-        studyType: MSc. (Diplôme d'ingénieur)
-        start_date: 2017-09-01
-        end_date: 2021-07-01
-        score: "GPA 3.732"
-        courses:
-          - "Specialization in Big Data and Software conception"
-          - "Gap year between July 2019 and June 2020"
-          - "Relevant courses: Machine Learning, Deep Learning, Big Data hackathon, Information systems architecture, Design Patterns, Mobile Development, Data Mining"
+        degree: MSc. (French' "Diplôme d'ingénieur")
+        start_date: 2017-09
+        end_date: 2021-07
+        location: Lyon, France
+        summary: Computer Science Engineering School (French 'Grandes Ecoles'), GPA 3.732/4.0
+        highlights:
+          - Major in Big Data and Software conception
+          - Gap year between July 2019 and June 2020
+          - Won the first prize for CPE Lyon's 'Company Creation Project' (~ 300 students participating teams of 6 people) , Novacap prize 1200€ (2020) for a smart straw detecting drug in beverages
+          - Relevant courses :- Machine Learning, Deep Learning, Big Data hackathon, Information systems architecture, Design Patterns, Mobile Development, Data Mining
+      
+      - institution: Lycée Leconte De Lisle
+        area: Mathematics, Physics and Engineering Sciences
+        degree: 
+        start_date: 2017-09
+        end_date: 2021-07
+        location: Lyon, France
+        summary: Computer Science Engineering School (French 'Grandes Ecoles'), GPA 3.732/4.0
+        highlights:
+          - Major in Big Data and Software conception
+          - Gap year between July 2019 and June 2020
+          - Won the first prize for CPE Lyon's 'Company Creation Project' (~ 300 students participating teams of 6 people) , Novacap prize 1200€ (2020) for a smart straw detecting drug in beverages
+          - Relevant courses :- Machine Learning, Deep Learning, Big Data hackathon, Information systems architecture, Design Patterns, Mobile Development, Data Mining
 
     Experience:
+      - company: ANSES
+        position: Postdoctoral Researcher in Natural Language Processing
+        start_date: 2026-01
+        end_date: 2027-01
+        location: Paris, France
+        summary: Research on zero shot named entity recognition in the context of ANR project SafeFood4ClimDiet :- extraction of emerging food practices related to climate change in multiple text sources
+        highlights:
+          - Zero-shot NER on french and english texts from multiple sources (research articles, grey literature, press articles and social media).
+
       - company: SEGULA Technologies
         position: Machine Learning / NLP Engineer
+        start_date: 2021-02
+        end_date: 2021-07
         location: Lyon, France
-        url: https://france.segulatechnologies.com/fr/
-        start_date: 2021-02-01
-        end_date: 2021-07-31
         summary: End-of-study internship in R&D team.
         highlights:
-          - "Using machine learning and NLP to find recurrent problems in customer service data (vehicles malfunction, text messages from customers)."
-          - "Implementation of NLP pipeline (preprocessing, embedding, clustering, topic modelling) to extract similar groups of problems and identify their main topics."
+          - Using machine learning and NLP to find recurrent problems in customer service data (vehicles malfunction, text messages from customers).
+          - Implementation of NLP pipeline (preprocessing, embedding, clustering, topic modelling) to extract similar groups of problems and identify their main topics.
 
       - company: Fraunhofer IPK
-        position: Machine Learning R&D Intern
+        position: Machine Learning R&D Engineer
+        start_date: 2019-07
+        end_date: 2020-06
         location: Berlin, Germany
-        url: https://www.ipk.fraunhofer.de/en.html
-        start_date: 2019-07-01
-        end_date: 2020-06-31
         summary: Gap year internship in an applied sciences research institute. Working in different teams for 2 projects.
         highlights:
-          - "1st project: using Machine Learning / NLP / Computer Vision to extract and compare product requirements"
-          - "2nd project: web development using Java + JSF for internal project management application"
+          - 1st project :- using Machine Learning / NLP / Computer Vision to extract and compare product requirements
+          - 2nd project :- web development using Java + JSF for internal project management application
 
     Volunteer:
       - company: CPE Lyon Student Union (BDE)
         position: Event Team
         location: Lyon, France
-        start_date: 2018-02-01
-        end_date: 2019-02-01
-        summary: "Organizing student events: integration weekend for ~500 students (travel and activities), ski week in the French Alps, weekly afterworks, and student parties."
+        start_date: 2018-02
+        end_date: 2019-02
+        summary: "Organizing student events and activities for the whole school(1500 students)."
+        highlights: 
+          - integration weekend for ~500 students (travel and activities)
+          - ski week in the French Alps
+          - weekly afterworks
+          - student parties
 
       - company: CPE Lyon Sport Union (BDE)
         position: Tournament responsive
         location: Lyon, France
-        start_date: 2018-02-01
-        end_date: 2019-02-01
+        start_date: 2018-02
+        end_date: 2019-02
         summary: Organized a beach volleyball tournament and barbecue party on La Doua Campus for ~150 students.
 
     # Awards:
@@ -108,28 +121,53 @@ cv:
 
     Publications:
       - title: "KEEPHA at n2c2 2022: Track 1"
+        authors:
+          - Lisa Raithel
+          - Faith W. Mutinda
+          - Gabriel H. B. Andrade
+          - Hui-Syuan Yeh
+          - Tomohiro Nishiyama
+          - Mathieu Laï-king
+          - Shuntaro Yada
+          - Roland Roller
+          - Cyril Grouin
+          - Agata Savary
+          - Aurélie Névéol
+          - Thomas Lavergne
+          - Eiji Aramaki
+          - Sebastian Möller
+          - Yuji Matsumoto
+          - Pierre Zweigenbaum
         publisher: n2c2 Shared Task
         releaseDate: 2022
         url: https://hal.science/hal-04297589
 
       - title: Pre-training data selection for biomedical domain adaptation using journal impact metrics
+        authors:
+          - Mathieu Laï-King
+          - Patrick Paroubek
         publisher: BioNLP@ACL2024
         releaseDate: 2024
         url: https://aclanthology.org/2024.bionlp-1.27
 
       - title: "Évaluation de la qualité de rapport des essais cliniques avec des larges modèles de langue [Evaluation of Clinical Trials Reporting Quality using Large Language Models]"
+        authors:
+          - Mathieu Laï-King
+          - Patrick Paroubek
         publisher: ATALA - Revue TAL
         releaseDate: 2025
         url: https://www.atala.org/content/tal_65_2_1
 
       - title: "Quality of Research Articles and Neural Language Models: Applications to the Biomedical Domain"
+        authors:
+          - Mathieu Laï-King
+          - Patrick Paroubek
         publisher: Université Paris Saclay
         releaseDate: 2025
         url: https://theses.hal.science/tel-05079724
 
     Skills:
       - name: General Skills
-        level: Master
         icon: fa-solid fa-hashtag
         keywords:
           - Statistics
@@ -138,7 +176,6 @@ cv:
           - Natural Language Processing
 
       - name: Computer Science
-        level: Master
         icon: fa-solid fa-hashtag
         keywords:
           - "Mobile development: Android"
@@ -156,7 +193,6 @@ cv:
           - CI/CD
 
       - name: NLP / Deep Learning / Machine Learning
-        level: Master
         icon: fa-solid fa-hashtag
         keywords:
           - Pytorch
@@ -176,34 +212,24 @@ cv:
           - LangGraph
 
     Languages:
-      - language: French
-        fluency: Native speaker
-        icon: "🇫🇷"
+      - label: French
+        details: Native speaker
 
-      - language: English
-        fluency: Fluent
+      - label: English
+        details: Professional, Fluent 
 
-      - language: Japanese
-        fluency: Beginner
-
-    Interests:
-      - name: Natural Language Processing
-        icon: fa-solid fa-tag
-        keywords:
-          - "NLP for Science: (partly) automated reviewing, research idea/plan generation"
-          - Medical-domain NLP methods to improve/assess medical text data quality
-          - Pretraining Data Selection
-          - Agents and Reasoning
-
+      - label: Japanese
+        details: Beginner
+        
     Certificates:
       - name: Natural Language Processing Specialization
-        date: 2021-12-01
+        date: 2021-12
         issuer: Coursera
         url: https://www.coursera.org/account/accomplishments/specialization/certificate/ERQGQXC4J9ED
         icon: fa-solid fa-location-dot
 
       - name: Cambridge C1 Advanced
-        date: 2020-12-20
+        date: 2020-12
         issuer: Cambridge University Press & Assessment
         url: https://www.cambridgeenglish.org/exams-and-tests/advanced/
         icon: fa-solid fa-tag
