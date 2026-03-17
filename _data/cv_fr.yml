@@ -1,0 +1,186 @@
+cv:
+  name: Mathieu LAÏ-KING
+  headline: Post-doctorant en traitement automatique des langues
+  location: Paris, France
+  email: mathieu.laiking@anses.fr
+  phone: '+33689268614'
+  website: https://mathieulaiking.github.io/
+  photo: ../assets/img/cv-fr.jpg
+  social_networks:
+    - network: GitHub
+      username: mathieulaiking
+    - network: LinkedIn
+      username: mathieulaiking
+
+  sections:
+    Formation:
+      - institution: Université Paris Saclay
+        area: Traitement automatique des langues (TAL)
+        degree: PhD
+        start_date: 2022-02
+        end_date: 2025-04
+        location: Paris, France
+        summary: "Qualité des articles de recherche et modèles de langue neuronaux : applications au domaine biomédical"
+        highlights:
+          - "Encadrement : Patrick Paroubek et Thierry Hamon"
+          - "Formation DLO-JZ : Deep Learning optimisé sur Jean-Zay (supercalculateur du CNRS)"
+          - "Conférences et écoles : ALPS Winter School 2023, TALN 2023, ACL 2024 Bangkok"
+
+      - institution: CPE Lyon
+        area: Informatique
+        degree: MSc.
+        start_date: 2017-09
+        end_date: 2021-07
+        location: Lyon, France
+        summary: École d'ingénieur en sciences du numérique
+        highlights:
+          - Majeure Big Data et conception logicielle
+          - Année de césure entre juillet 2019 et juin 2020
+          - "Cours : Machine Learning, Deep Learning, hackathon Big Data, architecture des systèmes d'information, Design Patterns, développement mobile, Data Mining"
+
+    Expériences professionnelles:
+      - company: ANSES
+        position: Post-doctorant
+        start_date: 2026-01
+        end_date: 2027-01
+        location: Paris, France
+        summary: Recherche sur la reconnaissance d'entités nommées en zero-shot dans le cadre du projet ANR SafeFood4ClimDiet.
+        highlights:
+          - NER zero-shot sur des textes français et anglais issus de sources multiples (articles scientifiques, littérature grise, presse et réseaux sociaux).
+          - "Objectif du projet : extraction de pratiques alimentaires émergentes liées au changement climatique dans des sources textuelles variées"
+        
+      - company: SEGULA Technologies
+        position: Ingénieur Machine Learning / TAL
+        start_date: 2021-02
+        end_date: 2021-07
+        location: Lyon, France
+        summary: Stage de fin d'études au sein d'une équipe R&D.
+        highlights:
+          - Utilisation du machine learning et du TAL pour identifier des problèmes récurrents dans les données du service client (pannes de véhicules, messages clients).
+          - Implémentation d'une pipeline TAL (prétraitement, embeddings, clustering, topic modeling) pour extraire des groupes de problèmes similaires et identifier leurs thématiques principales.
+
+      - company: Fraunhofer IPK
+        position: Ingénieur R&D en Machine Learning
+        start_date: 2019-07
+        end_date: 2020-06
+        location: Berlin, Allemagne
+        summary: Stage de césure dans un institut de recherche en sciences appliquées, au sein de différentes équipes sur 2 projets.
+        highlights:
+          - "1er projet : utilisation du Machine Learning, du TAL et de la vision par ordinateur pour extraire et comparer des exigences produit"
+          - "2e projet : développement web en Java + JSF pour une application interne de gestion de projet"
+
+    Publications:
+      - title: Évaluation de la qualité de rapport des essais cliniques avec des larges modèles de langue [Evaluation of Clinical Trials Reporting Quality using Large Language Models]
+        authors:
+          - Mathieu Laï-King
+          - Patrick Paroubek
+        journal: Revue TAL 65-2
+        date: 2025
+        url: https://www.atala.org/content/tal_65_2_1
+
+      - title: Pre-training data selection for biomedical domain adaptation using journal impact metrics
+        authors:
+          - Mathieu Laï-King
+          - Patrick Paroubek
+        journal: BioNLP@ACL2024
+        date: 2024
+        url: https://aclanthology.org/2024.bionlp-1.27
+
+      - title: "KEEPHA at n2c2 2022: Track 1"
+        authors:
+          - Lisa Raithel
+          - Faith W. Mutinda
+          - Gabriel H. B. Andrade
+          - Hui-Syuan Yeh
+          - Tomohiro Nishiyama
+          - Mathieu Laï-King
+          - Shuntaro Yada
+          - Roland Roller
+          - Cyril Grouin
+          - Agata Savary
+          - Aurélie Névéol
+          - Thomas Lavergne
+          - Eiji Aramaki
+          - Sebastian Möller
+          - Yuji Matsumoto
+          - Pierre Zweigenbaum
+        journal: n2c2 Shared Task
+        date: 2022
+        url: https://hal.science/hal-04297589
+
+    Compétences:
+      - label: Domaines scientifiques
+        details: Statistiques, Machine Learning, Deep Learning, Traitement automatique du langage naturel
+
+      - label: Informatique
+        details: "programmation orientée objet, Design Patterns, Python, Java, Bash, bases de données : MySQL, PostgreSQL, développement web : React, Node.js, Spring Framework, Git, Docker, CI/CD"
+
+      - label: TAL / Deep Learning / Machine Learning
+        details: Pytorch, Transformers, vLLM, W&B, accelerate, deepspeed, spacy, stanza, nltk, Sentence Transformers, datasets, scikit-learn, smolagents, llamaindex, LangGraph
+
+    Langues:
+      - label: Français
+        details: Langue maternelle
+
+      - label: Anglais
+        details: Professionnel, courant
+
+      - label: Japonais
+        details: Débutant
+        
+    Certificats:
+      - name: Fondamentaux de MCP
+        date: 2025-07
+        summary: Délivré par Hugging Face. [Certificat](https://cas-bridge.xethub.hf.co/xet-bridge-us/682f5d0ff0af4dc8a20649c1/1e33c7cf8aca3805577f8b7322ba2ffa79f45babf4fd6c4cd7ad2f8ef49b1edd?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20260317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260317T204148Z&X-Amz-Expires=3600&X-Amz-Signature=8ed3c8796eb72c10183d87e9550f26acbf9fbc5d4e7333abf66bb6a3bed00507&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-07-03.png%3B+filename%3D%222025-07-03.png%22%3B&response-content-type=image%2Fpng&x-amz-checksum-mode=ENABLED&x-id=GetObject&Expires=1773783708&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3Mzc4MzcwOH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82ODJmNWQwZmYwYWY0ZGM4YTIwNjQ5YzEvMWUzM2M3Y2Y4YWNhMzgwNTU3N2Y4YjczMjJiYTJmZmE3OWY0NWJhYmY0ZmQ2YzRjZDdhZDJmOGVmNDliMWVkZCoifV19&Signature=MJa19D%7ELJpKg7QSrTG1oe6EU0JhXeDjYItU01ffC15vNQujXrx1a5mJXC-2DKW1JHaEmPG8gcw2WQsi6LAkTBgNJtQvYlPcCui2ywqn9iONOfmLs0hxrBt1da3Qa5lE8IVMWERo7E25T29YV7aBqtAPgAh9ZpcmtWlq64K4yiZMmNR%7EYKn6ypbbHrFad3uvdzeNryhiUY359uuZB9ktKO29AulTjwgQt9ovu8w5IqPfSfBRUZZg6FSjaAf0gMAQOKLKp4dtE2hUSDPBmalQgrnl-D0B5C-MnofZtSCyV4WbJsrlPyX0IPeMscuV8aWfaScKgryr5U4l4FlxO7QswPA__&Key-Pair-Id=K2L8F4GPSG1IFC)
+
+      - name: Cours sur les agents
+        date: 2025-06
+        summary: Délivré par Hugging Face. [Certificat](https://www.linkedin.com/in/mathieulaiking/overlay/Certifications/756517781/treasury/?profileId=ACoAACQu62UBFpQsd2wfcKEdF-oc5L6A1Gstft8)
+
+      - name: Fondamentaux du calcul accéléré avec CUDA Python
+        date: 2025-01
+        summary: Délivré par NVIDIA. [Certificat](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BS0f36hAWSPugK3Ukv3amJQ%3D%3D)
+
+      - name: Spécialisation en traitement automatique des langues
+        date: 2021-12
+        summary: Délivré par Coursera. [Certificat](https://www.coursera.org/account/accomplishments/specialization/certificate/ERQGQXC4J9ED)
+
+      - name: Cambridge C1 Advanced
+        date: 2020-12
+        summary: Délivré par Cambridge University Press & Assessment. [Informations](https://www.cambridgeenglish.org/exams-and-tests/advanced/)
+
+    Bénévolat:
+      - company: Bureau des élèves (BDE) de CPE Lyon
+        position: Équipe événementielle
+        location: Lyon, France
+        start_date: 2018-02
+        end_date: 2019-02
+        summary: Organisation d'événements et d'activités étudiantes pour l'ensemble de l'école (1500 étudiants).
+        highlights: 
+          - participation à une campagne de 3 semaines et victoire aux élections parmi 3 listes d'une trentaine de personnes
+          - week-end d'intégration pour ~500 étudiants (transport, soirées, activités, location du lieu, logistique, sécurité)
+          - semaine de ski dans les Alpes françaises
+          - afterworks hebdomadaires sur le campus de La Doua
+          - soirées étudiantes tous les 2-3 mois
+
+      - company: Bureau des Sports (BDS) de CPE Lyon
+        position: Responsable tournoi
+        location: Lyon, France
+        start_date: 2018-02
+        end_date: 2019-02
+        summary: Organisation d'un tournoi de beach-volley sur le campus de La Doua pour ~150 étudiants.
+
+    Récompenses:
+      - name: 1er prix du Projet de Création d'Entreprise de CPE Lyon
+        date: 2018-12
+        summary: Mathieu Laï-King, Clément Got, Raphaëlle Le Gall, Camille Poirson, Thibaut Lecomte, Eva Beck 
+        highlights:
+          - Concours organisé par CPE Lyon où des équipes de 6 étudiants conçoivent un projet de création d'entreprise (toute la promotion en première année, environ 300 étudiants)
+          - Notre projet, une paille intelligente détectant les drogues dans les boissons par capillarité, a obtenu le 1er prix,  
+          - Prix décerné par l'entreprise NovaCap et CPE Lyon, dotation de 1200 EUR
+
+design :
+  theme: classic  
+
+locale:
+  language: french

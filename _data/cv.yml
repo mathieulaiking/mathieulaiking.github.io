@@ -5,10 +5,8 @@ cv:
   email: mathieu.laiking@anses.fr
   phone: '+33689268614'
   website: https://mathieulaiking.github.io/
-  photo: ../assets/img/profile-pic.jpg
+  # photo: ../assets/img/profile-pic.jpg
   social_networks:
-    - network: X
-      username: mathlaiking
     - network: GitHub
       username: mathieulaiking
     - network: LinkedIn
@@ -29,20 +27,7 @@ cv:
 
       - institution: CPE Lyon
         area: Computer Science
-        degree: MSc. (French' "Diplôme d'ingénieur")
-        start_date: 2017-09
-        end_date: 2021-07
-        location: Lyon, France
-        summary: Computer Science Engineering School (French 'Grandes Ecoles'), GPA 3.732/4.0
-        highlights:
-          - Major in Big Data and Software conception
-          - Gap year between July 2019 and June 2020
-          - Won the first prize for CPE Lyon's 'Company Creation Project' (~ 300 students participating teams of 6 people) , Novacap prize 1200€ (2020) for a smart straw detecting drug in beverages
-          - Relevant courses :- Machine Learning, Deep Learning, Big Data hackathon, Information systems architecture, Design Patterns, Mobile Development, Data Mining
-      
-      - institution: Lycée Leconte De Lisle
-        area: Mathematics, Physics and Engineering Sciences
-        degree: 
+        degree: MSc. 
         start_date: 2017-09
         end_date: 2021-07
         location: Lyon, France
@@ -84,25 +69,25 @@ cv:
           - 1st project :- using Machine Learning / NLP / Computer Vision to extract and compare product requirements
           - 2nd project :- web development using Java + JSF for internal project management application
 
-    Volunteer:
-      - company: CPE Lyon Student Union (BDE)
-        position: Event Team
-        location: Lyon, France
-        start_date: 2018-02
-        end_date: 2019-02
-        summary: "Organizing student events and activities for the whole school(1500 students)."
-        highlights: 
-          - integration weekend for ~500 students (travel and activities)
-          - ski week in the French Alps
-          - weekly afterworks
-          - student parties
+    # Volunteer:
+    #   - company: CPE Lyon Student Union (BDE)
+    #     position: Event Team
+    #     location: Lyon, France
+    #     start_date: 2018-02
+    #     end_date: 2019-02
+    #     summary: "Organizing student events and activities for the whole school(1500 students)."
+    #     highlights: 
+    #       - integration weekend for ~500 students (travel and activities)
+    #       - ski week in the French Alps
+    #       - weekly afterworks
+    #       - student parties
 
-      - company: CPE Lyon Sport Union (BDE)
-        position: Tournament responsive
-        location: Lyon, France
-        start_date: 2018-02
-        end_date: 2019-02
-        summary: Organized a beach volleyball tournament and barbecue party on La Doua Campus for ~150 students.
+    #   - company: CPE Lyon Sport Union (BDE)
+    #     position: Tournament responsive
+    #     location: Lyon, France
+    #     start_date: 2018-02
+    #     end_date: 2019-02
+    #     summary: Organized a beach volleyball tournament and barbecue party on La Doua Campus for ~150 students.
 
     # Awards:
     #   - title: Nobel Prize in Physics
@@ -121,6 +106,22 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Publications:
+      - title: Évaluation de la qualité de rapport des essais cliniques avec des larges modèles de langue [Evaluation of Clinical Trials Reporting Quality using Large Language Models]
+        authors:
+          - Mathieu Laï-King
+          - Patrick Paroubek
+        journal: Revue TAL 65-2
+        date: 2025
+        url: https://www.atala.org/content/tal_65_2_1
+
+      - title: Pre-training data selection for biomedical domain adaptation using journal impact metrics
+        authors:
+          - Mathieu Laï-King
+          - Patrick Paroubek
+        journal: BioNLP@ACL2024
+        date: 2024
+        url: https://aclanthology.org/2024.bionlp-1.27
+
       - title: "KEEPHA at n2c2 2022: Track 1"
         authors:
           - Lisa Raithel
@@ -139,78 +140,26 @@ cv:
           - Sebastian Möller
           - Yuji Matsumoto
           - Pierre Zweigenbaum
-        publisher: n2c2 Shared Task
-        releaseDate: 2022
+        journal: n2c2 Shared Task
+        date: 2022
         url: https://hal.science/hal-04297589
 
-      - title: Pre-training data selection for biomedical domain adaptation using journal impact metrics
-        authors:
-          - Mathieu Laï-King
-          - Patrick Paroubek
-        publisher: BioNLP@ACL2024
-        releaseDate: 2024
-        url: https://aclanthology.org/2024.bionlp-1.27
+     
 
-      - title: "Évaluation de la qualité de rapport des essais cliniques avec des larges modèles de langue [Evaluation of Clinical Trials Reporting Quality using Large Language Models]"
-        authors:
-          - Mathieu Laï-King
-          - Patrick Paroubek
-        publisher: ATALA - Revue TAL
-        releaseDate: 2025
-        url: https://www.atala.org/content/tal_65_2_1
 
-      - title: "Quality of Research Articles and Neural Language Models: Applications to the Biomedical Domain"
-        authors:
-          - Mathieu Laï-King
-          - Patrick Paroubek
-        publisher: Université Paris Saclay
-        releaseDate: 2025
-        url: https://theses.hal.science/tel-05079724
 
     Skills:
-      - name: General Skills
+      - label: Scientific domains
         icon: fa-solid fa-hashtag
-        keywords:
-          - Statistics
-          - Machine Learning
-          - Deep Learning
-          - Natural Language Processing
+        details: Statistics, Machine Learning, Deep Learning, Natural Language Processing
 
-      - name: Computer Science
+      - label: Computer Science
         icon: fa-solid fa-hashtag
-        keywords:
-          - "Mobile development: Android"
-          - Object Oriented Programming
-          - Design patterns
-          - Python
-          - Java
-          - Bash
-          - C
-          - C++
-          - "Databases: MySQL, PostgreSQL"
-          - "Web development: React, Node.js, Spring Framework"
-          - Git
-          - Docker
-          - CI/CD
+        details: Mobile development:- Android, Object Oriented Programming, Design patterns, Python, Java, Bash, C, C++, Databases:- MySQL, PostgreSQL, Web development:- React, Node.js, Spring Framework, Git, Docker, CI/CD
 
-      - name: NLP / Deep Learning / Machine Learning
+      - label: NLP / Deep Learning / Machine Learning
         icon: fa-solid fa-hashtag
-        keywords:
-          - Pytorch
-          - Transformers
-          - vLLM
-          - W&B
-          - accelerate
-          - deepspeed
-          - spacy
-          - stanza
-          - nltk
-          - Sentence Transformers
-          - datasets
-          - scikit-learn
-          - smolagents
-          - llamaindex
-          - LangGraph
+        details: Pytorch, Transformers, vLLM, W&B, accelerate, deepspeed, spacy, stanza, nltk, Sentence Transformers, datasets, scikit-learn, smolagents, llamaindex, LangGraph
 
     Languages:
       - label: French
@@ -222,18 +171,18 @@ cv:
       - label: Japanese
         details: Beginner
         
-    Certificates:
-      - name: Natural Language Processing Specialization
-        date: 2021-12
-        issuer: Coursera
-        url: https://www.coursera.org/account/accomplishments/specialization/certificate/ERQGQXC4J9ED
-        icon: fa-solid fa-location-dot
+    # Certificates:
+    #   - name: Natural Language Processing Specialization
+    #     date: 2021-12
+    #     issuer: Coursera
+    #     url: https://www.coursera.org/account/accomplishments/specialization/certificate/ERQGQXC4J9ED
+    #     icon: fa-solid fa-location-dot
 
-      - name: Cambridge C1 Advanced
-        date: 2020-12
-        issuer: Cambridge University Press & Assessment
-        url: https://www.cambridgeenglish.org/exams-and-tests/advanced/
-        icon: fa-solid fa-tag
+    #   - name: Cambridge C1 Advanced
+    #     date: 2020-12
+    #     issuer: Cambridge University Press & Assessment
+    #     url: https://www.cambridgeenglish.org/exams-and-tests/advanced/
+    #     icon: fa-solid fa-tag
 
     # Projects:
     #   - name: Quantum Computing
@@ -244,11 +193,16 @@ cv:
     #     start_date: 2018-01-01
     #     end_date: 2018-01-01
 
-    References:
-      - name: Patrick Paroubek, PhD, HDR
-        icon: fa-solid fa-laptop
-        reference: Research Engineer at CNRS. Corpus linguistics, NLP evaluation, text analysis, sentiment analysis, chatbots.
+    # References:
+    #   - name: Patrick Paroubek, PhD, HDR
+    #     icon: fa-solid fa-laptop
+    #     reference: Research Engineer at CNRS. Corpus linguistics, NLP evaluation, text analysis, sentiment analysis, chatbots.
 
-      - name: Thierry Hamon, PhD, HDR
-        icon: fa-solid fa-thumbtack
-        reference: Lecturer at Sorbonne Paris Nord Université.
+    #   - name: Thierry Hamon, PhD, HDR
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lecturer at Sorbonne Paris Nord Université.
+design :
+  theme: engineeringclassic
+
+locale:
+  language: english

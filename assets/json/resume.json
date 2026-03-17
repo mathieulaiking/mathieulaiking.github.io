@@ -44,6 +44,19 @@
   },
   "work": [
     {
+      "name": "ANSES",
+      "location": "Paris, France",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.anses.fr/en",
+      "startDate": "2026-01-05",
+      "endDate": "2027-01-04",
+      "summary": "Research on zero shot named entity recognition in the context of ANR project SafeFood4ClimDiet ",
+      "highlights": [
+        "Zero-shot NER on french and english texts from multiple sources (research articles, grey literature, press articles and social media).",
+        "Project goal :- extraction of emerging food practices related to climate change in multiple text sources"
+      ]
+    },
+    {
       "name": "SEGULA Technologies",
       "location": "Lyon, France",
       "position": "Machine Learning / NLP Engineer",
@@ -123,7 +136,28 @@
     }
   ],
   "awards": [],
-  "certificates": [
+  "certificates":[ 
+    {
+      "name": "Fundamentals of MCP",
+      "date": "2025-07-23",
+      "issuer": "HuggingFace ",
+      "url": "https://cas-bridge.xethub.hf.co/xet-bridge-us/682f5d0ff0af4dc8a20649c1/1e33c7cf8aca3805577f8b7322ba2ffa79f45babf4fd6c4cd7ad2f8ef49b1edd?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20260317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260317T204148Z&X-Amz-Expires=3600&X-Amz-Signature=8ed3c8796eb72c10183d87e9550f26acbf9fbc5d4e7333abf66bb6a3bed00507&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-07-03.png%3B+filename%3D%222025-07-03.png%22%3B&response-content-type=image%2Fpng&x-amz-checksum-mode=ENABLED&x-id=GetObject&Expires=1773783708&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3Mzc4MzcwOH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82ODJmNWQwZmYwYWY0ZGM4YTIwNjQ5YzEvMWUzM2M3Y2Y4YWNhMzgwNTU3N2Y4YjczMjJiYTJmZmE3OWY0NWJhYmY0ZmQ2YzRjZDdhZDJmOGVmNDliMWVkZCoifV19&Signature=MJa19D%7ELJpKg7QSrTG1oe6EU0JhXeDjYItU01ffC15vNQujXrx1a5mJXC-2DKW1JHaEmPG8gcw2WQsi6LAkTBgNJtQvYlPcCui2ywqn9iONOfmLs0hxrBt1da3Qa5lE8IVMWERo7E25T29YV7aBqtAPgAh9ZpcmtWlq64K4yiZMmNR%7EYKn6ypbbHrFad3uvdzeNryhiUY359uuZB9ktKO29AulTjwgQt9ovu8w5IqPfSfBRUZZg6FSjaAf0gMAQOKLKp4dtE2hUSDPBmalQgrnl-D0B5C-MnofZtSCyV4WbJsrlPyX0IPeMscuV8aWfaScKgryr5U4l4FlxO7QswPA__&Key-Pair-Id=K2L8F4GPSG1IFC",
+      "icon": "fa-brands fa-hugging-face"
+    },
+    {
+      "name": "Agents Course",
+      "date": "2025-06-26",
+      "issuer": "HuggingFace ",
+      "url": "https://www.linkedin.com/in/mathieulaiking/overlay/Certifications/756517781/treasury/?profileId=ACoAACQu62UBFpQsd2wfcKEdF-oc5L6A1Gstft8",
+      "icon": "fa-brands fa-hugging-face"
+    },
+    {
+      "name": "Fundamentals of Accelerated Computing with CUDA Python",
+      "date": "2025-01-01",
+      "issuer": "NVIDIA",
+      "url": "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BS0f36hAWSPugK3Ukv3amJQ%3D%3D",
+      "icon": "fa-solid fa-cube"
+    },
     {
       "name": "Natural Language Processing Specialization",
       "date": "2021-12-01",
@@ -141,10 +175,10 @@
   ],
   "publications": [
     {
-      "name": "KEEPHA at n2c2 2022: Track 1",
-      "publisher": "n2c2 Shared Task",
-      "releaseDate": "2022",
-      "url": "https://hal.science/hal-04297589",
+      "name": "Évaluation de la qualité de rapport des essais cliniques avec des larges modèles de langue [Evaluation of Clinical Trials Reporting Quality using Large Language Models]",
+      "publisher": "ATALA - Revue TAL",
+      "releaseDate": "2025",
+      "url": "https://www.atala.org/content/tal_65_2_1",
       "summary": ""
     },
     {
@@ -155,17 +189,10 @@
       "summary": ""
     },
     {
-      "name": "Évaluation de la qualité de rapport des essais cliniques avec des larges modèles de langue [Evaluation of Clinical Trials Reporting Quality using Large Language Models]",
-      "publisher": "ATALA - Revue TAL",
-      "releaseDate": "2025",
-      "url": "https://www.atala.org/content/tal_65_2_1",
-      "summary": ""
-    },
-    {
-      "name": "Quality of Research Articles and Neural Language Models : Applications to the Biomedical Domain",
-      "publisher": "Université Paris Saclay",
-      "releaseDate": "2025",
-      "url": "https://theses.hal.science/tel-05079724",
+      "name": "KEEPHA at n2c2 2022: Track 1",
+      "publisher": "n2c2 Shared Task",
+      "releaseDate": "2022",
+      "url": "https://hal.science/hal-04297589",
       "summary": ""
     }
   ],
