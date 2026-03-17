@@ -59,10 +59,11 @@ cv:
         start_date: 2026-01
         end_date: 2027-01
         location: Paris, France
-        summary: Research on zero shot named entity recognition in the context of ANR project SafeFood4ClimDiet :- extraction of emerging food practices related to climate change in multiple text sources
+        summary: Research on zero shot named entity recognition in the context of ANR project SafeFood4ClimDiet 
         highlights:
           - Zero-shot NER on french and english texts from multiple sources (research articles, grey literature, press articles and social media).
-
+          - Project goal :- extraction of emerging food practices related to climate change in multiple text sources
+        
       - company: SEGULA Technologies
         position: Machine Learning / NLP Engineer
         start_date: 2021-02
