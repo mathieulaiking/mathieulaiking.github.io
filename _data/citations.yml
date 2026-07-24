@@ -1,14 +1,10 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-24'
 papers:
   tn07i0oAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: "\xC9valuation de la qualit\xE9 de rapport des essais cliniques avec des larges mod\xE8les de langue"
     year: '2024'
-  tn07i0oAAAAJ:IjCSPb-OGe4C:
-    citations: 0
-    title: "Qualit\xE9 des articles de recherche et mod\xE8les de langue neuronaux: applications au domaine biom\xE9dical"
-    year: '2025'
   tn07i0oAAAAJ:UeHWp8X0CEIC:
     citations: 4
     title: SIG
