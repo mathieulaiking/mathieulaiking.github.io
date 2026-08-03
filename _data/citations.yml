@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-03'
 papers:
   tn07i0oAAAAJ:9yKSN-GCB0IC:
     citations: 1
@@ -15,7 +15,7 @@ papers:
     year: '2025'
   tn07i0oAAAAJ:qjMakFHDy7sC:
     citations: 1
-    title: Evaluation of Clinical Trials Reporting Quality using Large Language Models
+    title: Evaluation of clinical trials reporting quality using large language models
     year: '2025'
   tn07i0oAAAAJ:u-x6o8ySG0sC:
     citations: 3
@@ -25,3 +25,7 @@ papers:
     citations: 2
     title: 'KEEPHA at n2c2 2022: Track 1'
     year: '2022'
+  tn07i0oAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Evaluation of Clinical Trials Reporting Quality using Large Language Models
+    year: '2024'
